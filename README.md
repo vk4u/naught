@@ -1,4 +1,4 @@
-# naught
+# naught2
 
 [![Build Status](https://secure.travis-ci.org/andrewrk/naught.png)](http://travis-ci.org/andrewrk/naught)
 

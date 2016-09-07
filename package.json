@@ -1,6 +1,6 @@
 {
-  "name": "naught",
-  "version": "1.6.0",
+  "name": "naught2",
+  "version": "1.0.0",
   "description": "zero downtime deployment for your node.js server",
   "keywords": [
     "deploy",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewrk/naught"
+    "url": "git+https://github.com/vk4u/naught2.git"
   },
   "author": "Andrew Kelley",
   "license": "MIT",
@@ -40,5 +40,6 @@
   },
   "directories": {
     "test": "test"
-  }
+  },
+  "homepage": "https://github.com/vk4u/naught2#readme"
 }
